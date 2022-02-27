@@ -1,0 +1,38 @@
+Python Opdracht: E-ticket + QR Code
+
+Het eerste deel (Ticketmachine) wordt nu uitgebreid met drie verschillende facetten:
+
+GUI
+De interface van applicaties als die gemaakt in Python is zelden een commandline interface.
+Daarom zijn er ook libraries die het mogelijk maken om een betere GUI te maken. …Èn van
+die libraries is bijvoorbeeld "tkinter", maar er zijn ook alternatieven..
+
+Kassabon (E-ticket)
+Bij het aanschaffen van een ticket zie je in de eenvoudigste uitvoering regel voor regel de 
+bedragen verschijnen en uiteindelijk een totaalbedrag. In de praktijk zie je echter dat je ook
+een kassabon krijgt met daarop de verschillende tickets gespecificeerd plus een eindbedrag van
+het totaal. Vaak staat daar ook een datum/tijd op vermeld. Ontwerp ook een nette kassabon met 
+daarop genoemde gegevens.
+
+QR Code
+Omdat er tegenwoordig ook steeds meer gebruik wordt gemaakt van QR codes op tickets, moet 
+het ook mogelijk zijn om op een kassabon een dergelijke QR code af te drukken. Uiteindelijk zie
+je dat je bij toegangscontrole er bij het poortje of door een medewerker een QR code wordt 
+gescand die uiteindelijk toegang verleent tot een pretpark, festival, voetbalwedstrijd enz. In zo'n
+QR code kun je naar behoefte meerdere kenmerken kwijt die aantonen dat je een geldige ticket 
+hebt om toegang te verkrijgen. Uiteindelijk zou je zelfs een online ticketsysteem kunnen bouwen.
+
+Opdracht:
+
+Ga analyseren op welke wijze je bovengenoemde facetten zou kunnen implementeren, maar ook 
+wat je daarvoor eerst moet gaan uitzoeken. Denk ook aan een Moscow analyse! Denk ook aan
+prioriteiten in het maken van het ontwerp, dus waar zou je mee beginnen?
+
+Maak een plan van aanpak, inclusief een planning middels een "Gant Diagram" hoe je e.e.a. 
+denkt te gaan realiseren. Gebruik ook bijvoorbeeld een programma als Trello hierbij. De code 
+bewaar je bijvoorbeeld in Github. (Leg daar ook in een Readme de opdrachtomschrijving vast.)
+
+Het maken van een plan van aanpak is vooral bij grotere projecten van belang, maar ook voor
+deze korte opdrachten zeer nuttig als leerproces. Neem eens de tijd om tot een goed PvA te komen
+en kom tot een realistische planning op dag niveau. Maar ook voor het "uitzoekwerk" mag je de tijd
+nemen want een goede voorbereiding is het halve werk.
