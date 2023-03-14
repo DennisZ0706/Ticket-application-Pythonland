@@ -2,9 +2,9 @@
 
 ## The App
 
-Ticket application that allows Pythonland visitors to compose their own tickets. Application is intended to be imported into ticket machines installed in front of the cash office building. So that the staff in the cash office building only have to scan the ticket when the visitors want to enter the park.
+Ticket application that allows Pythonland visitors to compose their own tickets. Application is intended to be imported into ticket machines installed in front of the cash office building so that the staff in the cash office building only have to scan the ticket when the visitors want to enter the park.
 
-The visitor is guided through the ordering process by steps. First they have to fill in how many people are coming and what the age of everyone is. After that, all kinds of extra facilities can be added to the ticket, such as the restaurant or the theater. They can also add a day ticket for cheaper parking.
+The visitor is guided through the ordering process by steps. First they have to fill in with how many people they want to enter Pythonland and what the age of each group member is. After that all kinds of extra facilities can be added to the ticket, such as the restaurant or the theater. They can also add a day ticket for cheaper parking.
 
 When all these steps have been performed, the last step is to enter the name of the visitor that will appear on the ticket. Finally, a printable E-ticket is created with a QR-code that can be scanned in the cash office building
 
@@ -48,14 +48,20 @@ After the last step and visitors have entered their name they can press on "Beta
 
 ## Preview
 
-![screenshot_start](Showcase/screenshot_start.png?raw=true "Start screen")
+![screenshot_start](Showcase/screenshot_start.png?raw=true "Starting screen")<br>
+Starting screen
 
-![screenshot_input_persons](Showcase/screenshot_input_persons.png?raw=true "Fill in persons")
+![screenshot_input_persons](Showcase/screenshot_input_persons.png?raw=true "Fill in persons")<br>
+Fill in persons
 
-![screenshot_add_parking](Showcase/screenshot_add_parking.png?raw=true "Add daily rate parking")
+![screenshot_add_parking](Showcase/screenshot_add_parking.png?raw=true "Add daily rate parking")<br>
+Add daily rate parking
 
-![screenshot_add_facilities](Showcase/screenshot_add_facilities.png?raw=true "Add theatre")
+![screenshot_add_facilities](Showcase/screenshot_add_facilities.png?raw=true "Add theatre")<br>
+Add theatre
 
-![screenshot_input_name](Showcase/screenshot_input_name.png?raw=true "Fill in name")
+![screenshot_input_name](Showcase/screenshot_input_name.png?raw=true "Fill in name")<br>
+Fill in name
 
-![screenshot_eticket](Showcase/screenshot_eticket.png?raw=true "E-Ticket")
+![screenshot_eticket](Showcase/screenshot_eticket.png?raw=true "E-Ticket")<br>
+E-Ticket
